@@ -42,7 +42,7 @@ export const AuthProvider = ({ children }: { children: ReactNode }) => {
       setCurrentUser({
         id: "1",
         email,
-        name: "John Doe",
+        name: "Zeniths",
       });
     } finally {
       setLoading(false);
