@@ -197,6 +197,62 @@ const items = [
     date: "May 8, 2025 • 5:30 PM",
     description: "Blue Hydro Flask water bottle with university logo sticker.",
   },
+  {
+    type: "lost",
+    name: "Casio Scientific Calculator",
+    location: "Math Department, Room 105",
+    date: "May 9, 2025 • 10:00 AM",
+    description: "Black FX-991ES calculator with faded keys. Left on the desk after class."
+  },
+  {
+    type: "found",
+    name: "Bluetooth Earbuds",
+    location: "Gym Locker Room",
+    date: "May 9, 2025 • 3:45 PM",
+    description: "White wireless earbuds in a charging case. Found near the bench area."
+  },
+  {
+    type: "lost",
+    name: "Laptop Charger",
+    location: "Computer Lab A, Room 204",
+    date: "May 10, 2025 • 9:30 AM",
+    description: "60W MacBook charger. Plug was left near workstation #12."
+  },
+  {
+    type: "found",
+    name: "Notebook",
+    location: "Lecture Hall 3",
+    date: "May 10, 2025 • 1:10 PM",
+    description: "Blue spiral notebook labeled 'Physics Notes' on the cover."
+  },
+  {
+    type: "lost",
+    name: "Samsung Galaxy Phone",
+    location: "Campus Shuttle Bus",
+    date: "May 10, 2025 • 6:00 PM",
+    description: "Black Samsung phone with a cracked screen and leather case."
+  },
+  {
+    type: "found",
+    name: "Wrist Watch",
+    location: "Cricket Ground",
+    date: "May 11, 2025 • 8:00 AM",
+    description: "Silver analog wristwatch found on the bench near the scoreboard."
+  },
+  {
+    type: "lost",
+    name: "USB Flash Drive",
+    location: "IT Building Lobby",
+    date: "May 11, 2025 • 11:20 AM",
+    description: "Black 32GB Sandisk flash drive with a red cap, contains project files."
+  },
+  {
+    type: "found",
+    name: "Bike Helmet",
+    location: "Cycle Stand B",
+    date: "May 11, 2025 • 7:50 AM",
+    description: "Red and black helmet left hanging on a locked bike."
+  }
 ];
 
 export default Dashboard;
